@@ -1,0 +1,13 @@
+C:\Users\student\Desktop\Нова папка\Matrix mumbo jumbo\bin\Debug\Matrix mumbo jumbo.exe.config
+C:\Users\student\Desktop\Нова папка\Matrix mumbo jumbo\bin\Debug\Matrix mumbo jumbo.exe
+C:\Users\student\Desktop\Нова папка\Matrix mumbo jumbo\bin\Debug\Matrix mumbo jumbo.pdb
+C:\Users\student\Desktop\Нова папка\Matrix mumbo jumbo\bin\Debug\MathNet.Numerics.dll
+C:\Users\student\Desktop\Нова папка\Matrix mumbo jumbo\bin\Debug\System.ValueTuple.dll
+C:\Users\student\Desktop\Нова папка\Matrix mumbo jumbo\bin\Debug\MathNet.Numerics.xml
+C:\Users\student\Desktop\Нова папка\Matrix mumbo jumbo\bin\Debug\System.ValueTuple.xml
+C:\Users\student\Desktop\Нова папка\Matrix mumbo jumbo\obj\Debug\Matrix mumbo jumbo.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Нова папка\Matrix mumbo jumbo\obj\Debug\Matrix mumbo jumbo.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Нова папка\Matrix mumbo jumbo\obj\Debug\Matrix mumbo jumbo.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Нова папка\Matrix mumbo jumbo\obj\Debug\Matrix mumbo jumbo.csproj.CopyComplete
+C:\Users\student\Desktop\Нова папка\Matrix mumbo jumbo\obj\Debug\Matrix mumbo jumbo.exe
+C:\Users\student\Desktop\Нова папка\Matrix mumbo jumbo\obj\Debug\Matrix mumbo jumbo.pdb
